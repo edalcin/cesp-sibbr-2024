@@ -1,3 +1,3 @@
-# Traditional knowledge from Restinga Massamba community
+# Traditional knowledge from Restinga Massambaba communities
 
 ## Nicky van Luijk
