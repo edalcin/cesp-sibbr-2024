@@ -16,10 +16,10 @@
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
-| resourceID | Definition: An identifier for the resource that is the subject of the relationship |  |
-| relatedResourceID | An identifier for a related resource (the object, rather than the subject of the relationship) |  |
-| relationshipOfResource | The relationship of the subject (identified by dwc:resourceID) to the object (identified by dwc:relatedResourceID) | - identificadoComo<br>- conhecidoComo |
-| relationshipAccordingTo | The source (person, organization, publication, reference) establishing the relationship between the two resources |  |
+| resourceID | Definition: An identifier for the resource that is the subject of the relationship |  | p.ex. TaxonID da "gabiroba" |
+| relatedResourceID | An identifier for a related resource (the object, rather than the subject of the relationship) |  | p.ex. TaxonID da Campomanesia guazumifolia |
+| relationshipOfResource | The relationship of the subject (identified by dwc:resourceID) to the object (identified by dwc:relatedResourceID) | - identificadoComo<br>- conhecidoComo | p.ex. identificadoComo |
+| relationshipAccordingTo | The source (person, organization, publication, reference) establishing the relationship between the two resources |  | p.ex. citação do voucher ou do botânico que identificou |
 | relationshipRemarks | Comments or notes about the relationship between the two resources. |  |
 
 # [Species Distribution](https://rs.gbif.org/extension/gbif/1.0/distribution_2022-02-02.xml)
@@ -68,7 +68,7 @@ Bibliographic citation referencing a source where the vernacular name refers to 
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
-| taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  | p.ex. TaxonID da gabiroba |
 | source | 
 | useto |  | medicinal:sistema circulatório |  |
 | usePart |  | leaves:young leaves | based on Cook, 1995 - Appendix A - Table 43  |
