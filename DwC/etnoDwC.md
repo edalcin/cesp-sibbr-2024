@@ -10,7 +10,7 @@
 | genus | The full scientific name of the genus in which the dwc:Taxon is classified. |  |  |
 | specificEpithet | The name of the first or species epithet of the dwc:scientificName |  |  |
 | infraspecificEpithet | The name of the lowest or terminal infraspecific epithet of the dwc:scientificName, excluding any rank designation. |  |  |
-| vernacularName | A common or vernacular name. |  |  |
+| vernacularName | A common or vernacular name. | gabiroba |  |
 
 # [Darwin Core Resource Relationship](https://rs.gbif.org/extension/resource_relationship_2024-02-19.xml)
 
@@ -64,3 +64,14 @@ Bibliographic citation referencing a source where the vernacular name refers to 
 | countryCode | The standard code for the country in which the vernacular name is used. Recommended best practice is to use the ISO 3166-1-alpha-2 country codes available as a vocabulary at http://rs.gbif.org/vocabulary/iso/3166-1_alpha2.xml |  |  |
 | organismPart | The part of the organism to which the vernacular name refers. Best practice is to utilise a controlled vocabulary for this term although it is likely that multiple controlled lists for different organism groups may be the best implementation for this term. |  |  |
 
+# Etnobotany
+
+| Propriety | Definition | Example | Comments |
+| --- | --- | --- | --- |
+| taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| source | 
+| useto |  | medicinal:sistema circulatório |  |
+| usePart |  | leaves:young leaves | based on Cook, 1995 - Appendix A - Table 43  |
+| useForm |  | infusão |  |
+| usedBy |  | Pataxós |  |
+| usedWhere |  | Alto Rio Negro |  |
