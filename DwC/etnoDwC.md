@@ -58,8 +58,7 @@
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
 | taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
-| source | 	
-Bibliographic citation referencing a source where the vernacular name refers to the cited species. |  |  |
+| source | Bibliographic citation referencing a source where the vernacular name refers to the cited species. |  |  |
 | language | Language used for the vernacular name value. | Tupi |  |
 | locality | The specific description of the area from which the vernacular name usage originates. Vernacular names may have very specific regional contexts. A name used for a species in one area may refer to a different species in another. |  |  |
 | countryCode | The standard code for the country in which the vernacular name is used. Recommended best practice is to use the ISO 3166-1-alpha-2 country codes available as a vocabulary at http://rs.gbif.org/vocabulary/iso/3166-1_alpha2.xml |  |  |
