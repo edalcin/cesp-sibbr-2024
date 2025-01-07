@@ -63,6 +63,7 @@
 | locality | The specific description of the area from which the vernacular name usage originates. Vernacular names may have very specific regional contexts. A name used for a species in one area may refer to a different species in another. |  |  |
 | countryCode | The standard code for the country in which the vernacular name is used. Recommended best practice is to use the ISO 3166-1-alpha-2 country codes available as a vocabulary at http://rs.gbif.org/vocabulary/iso/3166-1_alpha2.xml |  |  |
 | organismPart | The part of the organism to which the vernacular name refers. Best practice is to utilise a controlled vocabulary for this term although it is likely that multiple controlled lists for different organism groups may be the best implementation for this term. |  |  |
+| taxonRemarks | A description of any context that qualify the specific usage of the vernacular name. | This name applies only when the fruit has been blessed by the tribal shaman |  |
 
 # Etnobotany
 
