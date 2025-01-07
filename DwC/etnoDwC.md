@@ -40,6 +40,7 @@
 | contributor | An entity responsible for making contributions to the textual information provided for a description | Comunidade da Serra da Cuxixola |  |
 | license | Official permission to do something with the resource. Please use Creative Commons URIs if you can |  |  |
 | rightsHolder | A person or organization owning or managing rights over the description | Comunidade da Serra da Cuxixola |  |
+| localContextLabel |  |  | https://localcontexts.org/labels/traditional-knowledge-labels/  |
 
 # [Literature References](https://rs.gbif.org/extension/gbif/1.0/references.xml)
 
