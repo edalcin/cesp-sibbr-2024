@@ -70,7 +70,7 @@ Bibliographic citation referencing a source where the vernacular name refers to 
 | --- | --- | --- | --- |
 | taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  | p.ex. TaxonID da gabiroba |
 | source | 
-| useto |  | medicinal:sistema circulatório |  |
+| useTo |  | medicinal:sistema circulatório |  |
 | usePart |  | leaves:young leaves | based on Cook, 1995 - Appendix A - Table 43  |
 | useForm |  | infusão |  |
 | usedBy |  | Pataxós |  |
