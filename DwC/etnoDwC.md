@@ -75,3 +75,4 @@ Bibliographic citation referencing a source where the vernacular name refers to 
 | useForm |  | infusão |  |
 | usedBy |  | Pataxós |  |
 | usedWhere |  | Alto Rio Negro |  |
+| localContextLabel |  |  | https://localcontexts.org/labels/traditional-knowledge-labels/  |
