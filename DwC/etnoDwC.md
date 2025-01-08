@@ -74,6 +74,7 @@
 | useTo |  | medicinal:sistema circulatório |  |
 | usePart |  | leaves:young leaves | based on Cook, 1995 - Appendix A - Table 43  |
 | useForm |  | infusão |  |
+| useFormDescription |  | macera a folha com sal grosso e aplica topicamente no local afetado |  |
 | usedBy |  | Pataxós |  |
 | usedWhere |  | Alto Rio Negro |  |
 | localContextLabel |  |  | https://localcontexts.org/labels/traditional-knowledge-labels/  |
