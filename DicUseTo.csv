@@ -1,0 +1,80 @@
+useTo
+medicinal:acidente por animal peçonhento 
+medicinal:condições relacionadas à saúde sexual 
+medicinal:doenças da pele 
+medicinal:doenças do sangue ou dos órgãos formadores do sangue
+medicinal:doenças do sistema circulatório 
+medicinal:doenças do sistema digestivo 
+medicinal:doenças do sistema geniturinário 
+medicinal:doenças do sistema imune 
+medicinal:doenças do sistema musculoesquelético ou tecido conjuntivo 
+medicinal:doenças do sistema nervoso 
+medicinal:doenças do sistema respiratório 
+"medicinal:doenças endócrinas, nutricionais ou metabólicas "
+medicinal:doenças infecciosas ou parasitárias
+"medicinal:gravidez, parto ou puerpério "
+"medicinal:lesões, envenenamentos ou algumas outras consequências de causas externas"
+medicinal:neoplasias 
+"medicinal:sintomas, sinais ou achados clínicos, não classificados em outra parte"
+medicinal:transtornos de sono-vigília 
+"medicinal:transtornos mentais, comportamentais ou do neurodesenvolvimento"
+alimentar humana
+alimentar humana:bebidas
+"alimentar humana:condimentos, ervas, especiarias"
+alimentar humana:vegetais e frutas
+alimentar humana:leguminosas
+alimentar humana:grãos
+alimentar humana:raízes e tubérculos
+alimentar humana:castanhas
+alimentar humana:óleos e gomas
+alimentar humana:aditivos
+alimentar humana:outro
+alimentar animal
+alimentar animal:forrageira
+alimentar animal:plantas melíferas
+alimentar animal:outro
+químico
+químico:látex
+químico:resinas
+"químico:óleos não comestíveis, ceras e sabonetes"
+químico:corantes e tintas
+"químico:taninos, flavonóides, polifenóis e outros"
+químico:aromáticos
+químico:solventes
+químico:adesivos
+químico:outro
+combustível
+"combustível:lenha, carvão vegetal"
+combustível:óleos e resinas comburentes
+combustível:outro 
+têxtil
+"têxtil:fibras, panos, linha, vestuário"
+têxtil:papel
+têxtil:cestas e recipientes feitos de fibra
+têxtil:corda e redes
+têxtil:plantas tintórias
+têxtil:outro
+usos culturais
+usos culturais:artesanato - não confeccionado a partir de fibras vegetais
+"usos culturais:recreativos, jogos, esportes, brinquedos, atividades"
+usos culturais:ritualísticos
+"usos culturais:acessórios, jóias, cosméticos"
+usos culturais:instrumentos musicais
+usos culturais:drogas psicoativas
+usos culturais:outro
+construção
+"construção:madeira vigas, colunas, pranchas, postes de madeira, estacas, lascas de madeira, etc"
+"construção:materiais de construção material não-madeireiro para construção, etc "
+construção:ferramentas e utensílios
+construção:transporte
+construção:cobertura
+construção:outro
+ambiental
+ambiental:barreiras e limites
+"ambiental:controle de erosão, estabilização de encostas"
+ambiental:fertilizantes e de melhoria do solo
+ambiental:ornamentais
+ambiental:controle da poluição
+ambiental:controle de pragas
+ambiental:outro
+recursos genéticos
