@@ -1,4 +1,5 @@
 useTo
+medicinal
 medicinal:acidente por animal peçonhento 
 medicinal:condições relacionadas à saúde sexual 
 medicinal:doenças da pele 
