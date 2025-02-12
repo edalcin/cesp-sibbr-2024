@@ -72,11 +72,11 @@
 | taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  | p.ex. TaxonID da gabiroba |
 | source | 
 | useTo |  | medicinal:sistema circulatório |  |
-| useToDescription |  | feriadas com dificuldade de cicatrização |  |
+| useToDescription | Verbatim description from the source | feriadas com dificuldade de cicatrização |  |
 | usePart |  | leaves:young leaves | based on Cook, 1995 - Appendix A - Table 43  |
-| usePartDescription |  |  |  |
+| usePartDescription | Verbatim plant part from the source |  |  |
 | useForm |  | infusão |  |
-| useFormDescription |  | macera a folha com sal grosso e aplica topicamente no local afetado |  |
+| useFormDescription | Verbatim use form description from the source | macera a folha com sal grosso e aplica topicamente no local afetado |  |
 | usedBy |  | Pataxós |  |
 | usedWhere |  | Alto Rio Negro |  |
 | localContextLabel |  |  | https://localcontexts.org/labels/traditional-knowledge-labels/  |
