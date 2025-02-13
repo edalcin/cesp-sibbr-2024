@@ -73,7 +73,7 @@
 | source | 
 | useTo |  | medicinal:sistema circulatório | Based on: WORLD HEALTH ORGANIZATION (WHO). International Classification of Diseases (ICD-11). [s. d.]. World Health Organization. Disponível em: https://icd.who.int/browse/2024-01/mms/en?secondLanguageCode=pt. Acesso em: 8 nov. 2024. |
 | useToDescription | Verbatim description from the source | feriadas com dificuldade de cicatrização |  |
-| usePart |  | leaves:young leaves | based on Cook, 1995 - Appendix A - Table 43  |
+| usePart |  | leaves:young leaves | Based on Cook, 1995 - Appendix A - Table 43  |
 | usePartDescription | Verbatim plant part from the source |  |  |
 | useForm |  | infusão |  |
 | useFormDescription | Verbatim use form description from the source | macera a folha com sal grosso e aplica topicamente no local afetado |  |
