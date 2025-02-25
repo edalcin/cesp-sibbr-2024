@@ -65,18 +65,18 @@
 | organismPart | The part of the organism to which the vernacular name refers. Best practice is to utilise a controlled vocabulary for this term although it is likely that multiple controlled lists for different organism groups may be the best implementation for this term. |  |  |
 | taxonRemarks | A description of any context that qualify the specific usage of the vernacular name. | This name applies only when the fruit has been blessed by the tribal shaman |  |
 
-# Etnobotany
+# Ethnobotany
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
 | taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  | p.ex. TaxonID da gabiroba |
 | source | 
 | useTo |  | medicinal:sistema circulatório | Based on: WORLD HEALTH ORGANIZATION (WHO). International Classification of Diseases (ICD-11). [s. d.]. World Health Organization. Disponível em: https://icd.who.int/browse/2024-01/mms/en?secondLanguageCode=pt. Acesso em: 8 nov. 2024. |
-| useToDescription | Verbatim description from the source | feriadas com dificuldade de cicatrização |  |
+| useToDescription | Verbatim description from the source | feridas com dificuldade de cicatrização |  |
 | usePart |  | leaves:young leaves | Based on Cook, 1995 - Appendix A - Table 43  |
 | usePartDescription | Verbatim plant part from the source |  |  |
 | useForm |  | infusão |  |
 | useFormDescription | Verbatim use form description from the source | macera a folha com sal grosso e aplica topicamente no local afetado |  |
 | usedBy |  | Pataxós |  |
-| usedWhere |  | Alto Rio Negro |  |
+| usedWhere |  | norte de Minas Gerais |  |
 | localContextLabel |  |  | https://localcontexts.org/labels/traditional-knowledge-labels/  |
