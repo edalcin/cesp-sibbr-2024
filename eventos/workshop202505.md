@@ -1,6 +1,6 @@
 # Workshop
 
-__Data__:<br>
+__Data__: 7 e 8 de maio de 2025<br>
 __Local__: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro<br>
 __Coordenação__:
 
@@ -8,8 +8,8 @@ __Coordenação__:
 
 | Hora | Atividade | Descrição |
 |---|---|---|
-| 9:00hs | Apresentação dos participantes e suas expectativas|  |
-| 10:00hs |  |  |
+| 9:00hs | Apresentação dos participantes |
+| 10:00hs | Projeto CESP  | Apresentação dos principais resultados |
 | 11:30hs |  |  |
 | 12:00 | Almoço |  |
 | 13:30hs | |  |
