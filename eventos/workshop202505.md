@@ -8,7 +8,7 @@ __Coordenação__:
 
 | Hora | Atividade | Descrição |
 |---|---|---|
-| 9:00hs | Apresentação dos participantes |
+| 09:00hs | Apresentação dos participantes |
 | 10:00hs | Projeto CESP  | Apresentação dos principais resultados |
 | 11:30hs |  |  |
 | 12:00 | Almoço |  |
