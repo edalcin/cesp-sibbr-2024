@@ -43,7 +43,7 @@
 | --- | --- | --- | --- |
 | vernacularID | An identifier for vernacular name. May be a global unique identifier or an identifier specific to the data set. |  |  |
 | source |  |  |  |
-| useTo |  | medicinal:sistema circulatório | Based on: WORLD HEALTH ORGANIZATION (WHO). International Classification of Diseases (ICD-11). [s. d.]. World Health Organization. Disponível em: https://icd.who.int/browse/2024-01/mms/en?secondLanguageCode=pt. Acesso em: 8 nov. 2024. |
+| useTo |  | medicinal:sistema circulatório | Based on: [Classificação Internacional de Cuidados Primários - ICPC2](https://pdfding.dalc.in/pdf/shared/6d623c53-c6dc-4bf1-9b32-915d0c0aad35) |
 | useToDescription | Verbatim description from the source | feridas com dificuldade de cicatrização |  |
 | usePart |  | leaves:young leaves | Based on Cook, 1995 - Appendix A - Table 43  |
 | usePartDescription | Verbatim plant part from the source |  |  |
