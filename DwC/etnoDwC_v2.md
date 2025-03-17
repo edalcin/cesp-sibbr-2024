@@ -15,17 +15,17 @@
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
 | taxonID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  | 
-| vernacularID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
 | kingdom | The full scientific name of the kingdom in which the dwc:Taxon is classified. |  |  |
 | family | The full scientific name of the family in which the dwc:Taxon is classified. |  |  |
 | genus | The full scientific name of the genus in which the dwc:Taxon is classified. |  |  |
 | specificEpithet | The name of the first or species epithet of the dwc:scientificName |  |  |
 | infraspecificEpithet | The name of the lowest or terminal infraspecific epithet of the dwc:scientificName, excluding any rank designation. |  |  |
 | scientificName | The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. This term should not contain identification qualifications, which should instead be supplied in the dwc:identificationQualifier term. |  |  |
+| vernacularID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
 | source | Bibliographic or other source citation referencing a source where the scientificName name refers to the cited vernacular name. |  |
 
 
-# [Taxon Description](https://rs.gbif.org/extension/gbif/1.0/description.xml)
+# [Taxon (vernacular) Description](https://rs.gbif.org/extension/gbif/1.0/description.xml)
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
