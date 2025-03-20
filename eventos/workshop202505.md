@@ -22,8 +22,8 @@ __Coordenação__: Viviane Kruel e Eduardo Dalcin
 
 ## Segundo dia
 
-| Hora | Atividade | Descrição | Quem |
-|---|---|---|---|
+| Inicio | Fim | Atividade | Descrição | Quem |
+|:---|:---|---|---|---|
 | 08:30 | 9:00 | Avaliação do primeiro dia | | |
 | 09:00 | 12:00 | Continuação dos grupos de trabalho |  |  |
 | 12:00 | 13:30 | Almoço | [Almoço no Garden Green](https://www.greengardenrestaurante.com/) |  |
