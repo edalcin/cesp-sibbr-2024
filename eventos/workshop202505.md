@@ -7,7 +7,7 @@ __Coordenação__: Viviane Kruel e Eduardo Dalcin
 ## Primeiro dia
 
 | Hora | Atividade | Descrição | Quem |
-|---:|---|---|---|
+|:---:|---|---|---|
 | 08:30-9:00 | Boas-vindas | Boas-vindas e apreentação dos participantes | Eduardo, Viviane e Diretor de Pesquisas (a confirmar) |
 | 09:00-9:30 | DarwinCore e extensões | Apresentação | Clara |
 | 09:30-10:00 | Governança de dados, licenças e metadados | Apresentação | Clara |
