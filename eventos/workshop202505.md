@@ -26,7 +26,7 @@ __Coordenação__: Viviane Kruel e Eduardo Dalcin
 |---|---|---|---|
 | 08:30 | 9:00 | Avaliação do primeiro dia | | |
 | 09:00 | 12:00 | Continuação dos grupos de trabalho |  |  |
-| 12:00 | 13:30 | Almoço | [Almoço no Garden Green](https://www.greengardenrestaurante.com/) |  |
+| 12:00 | 13:30 | [Almoço no Garden Green](https://www.greengardenrestaurante.com/) |  |  |
 | 13:30 | 14:30 | Apresentações TDWG sobre formalização de proposta de extensão | Apresentação | Anabela Plos |
 | 14:30 | 15:30 | Encaminhamentos e avaliação do evento |  |
 | 15:30 | 17:00 | Tour pelo Jardim Botânico do Rio de Janeiro | Passeio pela Diretoria de Pesquisa e parque | Eduardo e Viviane |
