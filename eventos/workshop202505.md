@@ -2,7 +2,8 @@
 
 __Data__: 7 e 8 de maio de 2025<br>
 __Local__: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro<br>
-__Coordenação__: Viviane Kruel e Eduardo Dalcin
+__Coordenação__: Viviane Kruel e Eduardo Dalcin<br>
+__Participantes__: [lista de participantes](https://docs.google.com/spreadsheets/d/1ffowNNgvsmScTXX6SyRZ3J5XjDBJ9izYYtHNKR6x_J8/edit?usp=sharing)
 
 ## Primeiro dia
 
