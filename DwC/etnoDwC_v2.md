@@ -2,6 +2,7 @@
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
 | vernacularID | An identifier for vernacular name. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| vernacularName |  | ervilha |  |
 | source | Bibliographic citation referencing a source where the vernacular name refers to the cited species. |  |  |
 | language | Language used for the vernacular name value. | Tupi |  |
 | locality | The specific description of the area from which the vernacular name usage originates. Vernacular names may have very specific regional contexts. A name used for a species in one area may refer to a different species in another. |  |  |
