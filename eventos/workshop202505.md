@@ -11,7 +11,7 @@ __Participantes__: [lista de participantes](https://docs.google.com/spreadsheets
 |:---|:---|---|---|---|
 | 08:30 | 09:00 | Boas-vindas | Boas-vindas e apreentação dos participantes | Eduardo, Viviane e Diretor de Pesquisas (a confirmar) |
 | 09:00 | 9:30 | DarwinCore e extensões | Apresentação | Clara |
-| 09:30 | 10:00 | Governança de dados, licenças e metadados | Apresentação | Clara |
+| 09:30 | 10:00 | Governança de dados, licenças e metadados | Apresentação | Keila |
 | 10:00 | 10:30 | Proposta de Extensão para dados da sociobiodiversidade | Apresentação Eduardo | Eduardo |
 | 10:30 | 12:00 | Discussão e perguntas | Debate |  |
 | 12:00 | 13:30 | Almoço | [Almoço no Green Garden](https://www.greengardenrestaurante.com/) |  |
