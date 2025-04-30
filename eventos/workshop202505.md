@@ -18,7 +18,7 @@ __Participantes__: [lista de participantes](https://docs.google.com/spreadsheets
 | 13:30 | 14:30 | Apresentações casos de estudo | Apresentação | Luisa, Camila e Nicky |
 | 14:30 | 15:00 | Formação dos grupos e discussão das entregas |  |
 | 15:00 | 16:30 | Grupo 1 - Termos DwC | Grupo de trabalho |  |
-| 15:00 | 16:30 | Grupo 2 - Vocabulário controlado | Grupo de trabalho |  |
+| 15:00 | 16:30 | Grupo 2 - Vocabulário controlado | Grupo de trabalho | Contextualização Thalita, Viviane e Dalcin  |
 | 16:30 | 17:00 | Apresentação dos resultados | Debate |  |
 
 ## Segundo dia
