@@ -20,7 +20,7 @@ __Participantes__: [lista de participantes](https://docs.google.com/spreadsheets
 | 15:00 | 16:30 | Grupo 1 - Termos DwC | Grupo de trabalho |  |
 | 15:00 | 16:30 | Grupo 2 - Vocabulário controlado | Grupo de trabalho | Contextualização Thalita, Viviane e Dalcin  |
 | 16:30 | 17:00 | Apresentação dos resultados | Debate |  |
-| 18:00 | 21:00 | [Pizzaria Braz](https://familiabraz.com.br/)] |  |
+| 18:00 | 21:00 | [Pizzaria Braz](https://familiabraz.com.br/) |  |
 
 ## Segundo dia
 
