@@ -1,18 +1,8 @@
 # Versão 3.0
 
-# [Vernacular Name Core](https://rs.gbif.org/extension/gbif/1.0/vernacularname.xml)
-| Propriety | Definition | Example | Comments |
-| --- | --- | --- | --- |
-| vernacularID | An identifier for vernacular name. May be a global unique identifier or an identifier specific to the data set. |  |  |
-| source | Bibliographic citation referencing a source where the vernacular name refers to the cited species. |  |  |
-| language | Language used for the vernacular name value. | Tupi |  |
-| locality | The specific description of the area from which the vernacular name usage originates. Vernacular names may have very specific regional contexts. A name used for a species in one area may refer to a different species in another. |  |  |
-| countryCode | The standard code for the country in which the vernacular name is used. Recommended best practice is to use the ISO 3166-1-alpha-2 country codes available as a vocabulary at http://rs.gbif.org/vocabulary/iso/3166-1_alpha2.xml |  |  |
-| organismPart | The part of the organism to which the vernacular name refers. Best practice is to utilise a controlled vocabulary for this term although it is likely that multiple controlled lists for different organism groups may be the best implementation for this term. |  |  |
-| taxonRemarks | A description of any context that qualify the specific usage of the vernacular name. | This name applies only when the fruit has been blessed by the tribal shaman |  |
+img: https://github.com/edalcin/cesp-sibbr-2024/blob/main/DwC/dwcV3.png
 
-
-# [Taxon](https://rs.gbif.org/core/dwc_taxon_2024-02-19.xml)
+# [Taxon (Vernacular?) Core](https://rs.gbif.org/core/dwc_taxon_2024-02-19.xml)
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
@@ -23,8 +13,21 @@
 | specificEpithet | The name of the first or species epithet of the dwc:scientificName |  |  |
 | infraspecificEpithet | The name of the lowest or terminal infraspecific epithet of the dwc:scientificName, excluding any rank designation. |  |  |
 | scientificName | The full scientific name, with authorship and date information if known. When forming part of a dwc:Identification, this should be the name in lowest level taxonomic rank that can be determined. This term should not contain identification qualifications, which should instead be supplied in the dwc:identificationQualifier term. |  |  |
-| vernacularID | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| vernacularName | A common or vernacular name. See also https://dwc.tdwg.org/terms/#dwc:vernacularName |  |  |
 | source | Bibliographic or other source citation referencing a source where the scientificName name refers to the cited vernacular name. |  |
+| nameAccordingTo | The reference to the source in which the specific taxon concept circumscription is defined or implied - traditionally signified by the Latin "sensu" or "sec." (from secundum, meaning "according to"). For taxa that result from identifications, a reference to the keys, monographs, experts and other sources should be given. See also https://dwc.tdwg.org/terms/#dwc:nameAccordingTo |  |  |
+
+# [Vernacular Names](https://rs.gbif.org/extension/gbif/1.0/vernacularname.xml)
+
+| Propriety | Definition | Example | Comments |
+| --- | --- | --- | --- |
+| taxonID(!) | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| source | Bibliographic citation referencing a source where the vernacular name refers to the cited species. |  |  |
+| language | Language used for the vernacular name value. | Tupi |  |
+| locality | The specific description of the area from which the vernacular name usage originates. Vernacular names may have very specific regional contexts. A name used for a species in one area may refer to a different species in another. |  |  |
+| countryCode | The standard code for the country in which the vernacular name is used. Recommended best practice is to use the ISO 3166-1-alpha-2 country codes available as a vocabulary at http://rs.gbif.org/vocabulary/iso/3166-1_alpha2.xml |  |  |
+| organismPart | The part of the organism to which the vernacular name refers. Best practice is to utilise a controlled vocabulary for this term although it is likely that multiple controlled lists for different organism groups may be the best implementation for this term. |  |  |
+| taxonRemarks | A description of any context that qualify the specific usage of the vernacular name. | This name applies only when the fruit has been blessed by the tribal shaman |  |
 
 
 # [Taxon (vernacular) Description](https://rs.gbif.org/extension/gbif/1.0/description.xml)
