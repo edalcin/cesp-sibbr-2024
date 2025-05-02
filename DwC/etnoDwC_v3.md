@@ -34,7 +34,7 @@ img: https://github.com/edalcin/cesp-sibbr-2024/blob/main/DwC/dwcV3.png
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
-| vernacularID | An identifier for vernacular name. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| taxonID(!) | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
 | description | Any descriptive free text | Planta de florzinha roxa que dá na beira da praia, utilizada para dor de cabeça |  |
 | creator | The author(s) of the textual information provided for a description | Dona Maria, da comunidade da Serra da Cuxixola |  |
 | contributor | An entity responsible for making contributions to the textual information provided for a description | Comunidade da Serra da Cuxixola |  |
@@ -46,7 +46,7 @@ img: https://github.com/edalcin/cesp-sibbr-2024/blob/main/DwC/dwcV3.png
 
 | Propriety | Definition | Example | Comments |
 | --- | --- | --- | --- |
-| vernacularID | An identifier for vernacular name. May be a global unique identifier or an identifier specific to the data set. |  |  |
+| taxonID(!) | An identifier for the set of dwc:Taxon information. May be a global unique identifier or an identifier specific to the data set. |  |  |
 | source |  |  |  |
 | useTo |  | medicinal:sistema circulatório | Based on: [Classificação Internacional de Cuidados Primários - ICPC2](https://pdfding.dalc.in/pdf/shared/6d623c53-c6dc-4bf1-9b32-915d0c0aad35) |
 | useToDescription | Verbatim description from the source | feridas com dificuldade de cicatrização |  |
