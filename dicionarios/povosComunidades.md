@@ -1,7 +1,7 @@
-## Tabela de Povos e Comunidades Tradicionais
+## Tabela de Povos e Comunidades Tradicionais para o Brasil
 
-fonte: https://www.gov.br/mma/pt-br/assuntos/povos-e-comunidades-tradicionais<br>
-csv: https://raw.githubusercontent.com/sibbr/cesp-sibbr-2024/refs/heads/main/dicionarios/povos_e_comunidades_tradicionais_com_descricao.csv
+* fonte: https://www.gov.br/mma/pt-br/assuntos/povos-e-comunidades-tradicionais
+* [csv](https://raw.githubusercontent.com/sibbr/cesp-sibbr-2024/refs/heads/main/dicionarios/povos_e_comunidades_tradicionais_com_descricao.csv)
 
 | Povos e Comunidades Tradicionais | Descrição |
 | :------------------------------- | :-------- |
